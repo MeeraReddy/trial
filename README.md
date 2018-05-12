@@ -1,1 +1,1 @@
- # trial first commit after setting trigger
+ # trial -----> commit after build manually first time
